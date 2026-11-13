@@ -1,0 +1,697 @@
+{
+	"folders": [
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/.vite"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/.vite/deps"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/.vite-temp"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/.bin"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/caniuse-lite"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/caniuse-lite/data/regions"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/caniuse-lite/data/features"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/caniuse-lite/dist/unpacker"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/caniuse-lite/data"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/caniuse-lite/dist/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/caniuse-lite/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@esbuild/win32-x64"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helpers"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helpers/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helpers/lib/helpers"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/src/transformation"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/src"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/src/config"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/src/config/files"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/vendor"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/validators"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/transformation/util"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/validators/react"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/transformation"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/transformation/file"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/tools"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/parser/util"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/parser"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/validators/generated"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/gensync-utils"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/utils"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/utils/react"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/errors"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/traverse"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/config/validation"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/retrievers"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/config"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/modifications/typescript"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/modifications"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/modifications/flow"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/config/helpers"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/definitions"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/core/lib/config/files"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/dist/node"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/types/internal"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-dom"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-dom/umd"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-dom/cjs"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/dist/client"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/generator"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/generator/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/bin"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/converters"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/misc"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-router-dom"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-router-dom/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/generator/lib/node"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/dist/node/chunks"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/generator/lib/generators"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-router-dom/dist/umd"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/traverse"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/constants"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/traverse/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/constants/generated"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@vitejs/plugin-react/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@vitejs/plugin-react"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/comments"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/traverse/lib/scope"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/traverse/lib/scope/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/vite/dist/node-cjs"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react/cjs"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react/umd"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@rolldown/pluginutils/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-module-transforms"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@rolldown/pluginutils"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-module-transforms/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-compilation-targets"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-compilation-targets/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/traverse/lib/path"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/clone"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/parser/typings"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/parser"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/traverse/lib/path/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/plugin-transform-react-jsx-self"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/plugin-transform-react-jsx-self/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@types/babel__core"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/builders"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/remapping/src"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/builders/typescript"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/builders/react"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/remapping"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/remapping/types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/traverse/lib/path/inference"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/remapping/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/builders/generated"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/trace-mapping/src"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/trace-mapping"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-refresh"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/trace-mapping/types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-refresh/cjs"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/code-frame"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/builders/flow"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/plugin-transform-react-jsx-source"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/plugin-transform-react-jsx-source/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/code-frame/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/parser/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/trace-mapping/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/gen-mapping/src"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/template"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/template/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/gen-mapping/dist/types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/gen-mapping"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/ast-types/generated"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/gen-mapping/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/ast-types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/gen-mapping/types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/asserts/generated"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/json5/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/types/lib/asserts"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/parser/bin"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/sourcemap-codec/src"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/debug"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/json5/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/debug/src"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/convert-source-map"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/json5"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/sourcemap-codec"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/sourcemap-codec/types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/compat-data"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-validator-identifier"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-validator-identifier/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/compat-data/data"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/gensync"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/sourcemap-codec/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/semver"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/gensync/test"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/js-tokens"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-validator-option"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/semver/bin"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-validator-option/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/picocolors"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/jsesc"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/lru-cache"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/jsesc/man"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/jsesc/bin"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/electron-to-chromium"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-module-imports"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-module-imports/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/browserslist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/resolve-uri/dist/types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/resolve-uri/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@remix-run/router"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-globals"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell/resolve-uri"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@remix-run/router/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-globals/data"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-string-parser"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@types/babel__traverse"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-plugin-utils"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-plugin-utils/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel/helper-string-parser/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@types/babel__generator"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@types/babel__template"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@rollup/rollup-win32-x64-gnu"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-router"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-router/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/scheduler"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-router/dist/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/scheduler/umd"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/scheduler/cjs"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/rollup/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/baseline-browser-mapping"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/baseline-browser-mapping/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/react-router/dist/umd"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/rollup"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/update-browserslist-db"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/loose-envify"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/node-releases"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/node-releases/data/release-schedule"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/node-releases/data"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@rollup/rollup-win32-x64-msvc"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/rollup/dist/es"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/yallist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/ms"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/rollup/dist/shared"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/node-releases/data/processed"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/rollup/dist/es/shared"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/postcss/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/postcss"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/nanoid/non-secure"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/source-map-js/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/nanoid"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/nanoid/async"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/source-map-js"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/nanoid/url-alphabet"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/escalade/sync"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/escalade"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/picomatch"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/fdir/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/picomatch/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/escalade/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/tinyglobby/dist"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/esbuild/lib"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/fdir"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/nanoid/bin"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/esbuild"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@types/estree"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/tinyglobby"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/esbuild/bin"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/rollup/dist/bin"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@babel"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@esbuild"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@jridgewell"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@rollup"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@types"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@remix-run"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@rolldown"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/node_modules/@vitejs"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/src/pages"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/src/components"
+		},
+		{
+			"path": "../../Tài liệu/bronik project/src"
+		},
+		{
+			"path": "../../Tài liệu/bronik project"
+		}
+	]
+}

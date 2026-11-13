@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Нейродрайв — AI-Гонки</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="race"></canvas>
+      <video id="webcam" autoplay playsinline muted></video>
+      <canvas id="hands"></canvas>
+
+      <div class="vignette"></div>
+      <div class="scanlines"></div>
+
+      <header class="topbar">
+        <div class="brand">
+          <span class="brand-mark">ND</span>
+          <div>
+            <p class="brand-kicker">NIGHT CIRCUIT / 01</p>
+            <h1>NEURODRIVE</h1>
+          </div>
+        </div>
+        <div class="live-chip" id="ai-chip">
+          <span class="pulse"></span>
+          <span id="ai-chip-text">ИИ анализирует стиль езды</span>
+        </div>
+      </header>
+
+      <section class="hud" id="hud">
+        <article class="panel speed-panel">
+          <p class="label">Скорость</p>
+          <p class="value" id="speed-value">000</p>
+          <p class="unit">км/ч</p>
+          <div class="bar"><i id="speed-bar"></i></div>
+        </article>
+
+        <article class="panel">
+          <div class="metric-row">
+            <div>
+              <p class="label">Дистанция</p>
+              <p class="value small" id="distance-value">0.00 км</p>
+            </div>
+            <div class="score-metric">
+              <p class="label">Очки</p>
+              <p class="value small" id="score-value">0</p>
+            </div>
+          </div>
+          <p class="label spaced">Нитро</p>
+          <div class="bar nitro"><i id="nitro-bar"></i></div>
+        </article>
+
+        <article class="panel">
+          <p class="label">Жест</p>
+          <p class="gesture" id="gesture-name">—</p>
+          <p class="hint" id="gesture-hint">Покажите ладонь камере</p>
+        </article>
+
+        <article class="panel ai-panel">
+          <p class="label">Нейропилот</p>
+          <p class="style" id="drive-style">калибровка</p>
+          <ul class="stats">
+            <li>Соперники <b id="rival-level">норм</b></li>
+            <li>Препятствия <b id="obstacle-level">норм</b></li>
+            <li>Трасса <b id="track-level">норм</b></li>
+          </ul>
+        </article>
+      </section>
+
+      <aside class="legend" id="legend">
+        <h2>Жесты</h2>
+        <ul>
+          <li><span>🖐️</span> Открытая ладонь — газ</li>
+          <li><span>✊</span> Кулак — тормоз</li>
+          <li><span>👈</span> Наклон влево — руль влево</li>
+          <li><span>👉</span> Наклон вправо — руль вправо</li>
+          <li><span>✌️</span> Виктория — нитро</li>
+        </ul>
+        <p class="keys">Клавиатура: ← → газ W / тормоз S / нитро Shift</p>
+      </aside>
+
+      <div class="screen" id="menu">
+        <div class="menu-card">
+          <p class="overtitle"><span class="signal-dot"></span> 01 / CITY AFTER DARK</p>
+          <h2>ГОРОД<br /><span>НЕ СПИТ</span></h2>
+          <p class="lead">Ночная смена. Мокрый асфальт. Только ты и линия горизонта.</p>
+          <div class="race-facts" aria-label="Параметры заезда">
+            <span><b>4.8</b><small>КИЛОМЕТРА</small></span>
+            <i></i>
+            <span><b>03</b><small>СОПЕРНИКА</small></span>
+            <i></i>
+            <span><b>∞</b><small>НОЧЬ</small></span>
+          </div>
+          <div class="menu-actions">
+            <button id="start-btn" class="primary">Запустить гонку</button>
+            <button id="camera-btn" class="ghost">Включить камеру</button>
+          </div>
+          <p class="status" id="cam-status">Камера не подключена — можно играть с клавиатуры</p>
+        </div>
+      </div>
+
+      <div class="screen hidden" id="results">
+        <div class="menu-card">
+          <p class="overtitle">анализ заезда</p>
+          <h2 id="result-title">Финиш</h2>
+          <p class="lead" id="result-text"></p>
+          <button id="again-btn" class="primary">Ещё круг</button>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
